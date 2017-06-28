@@ -1,0 +1,10 @@
+C:\Users\Daniel\Documents\GitHub\ProgramLauncher\ProgramLauncher\bin\Debug\ProgramLauncher.exe.config
+C:\Users\Daniel\Documents\GitHub\ProgramLauncher\ProgramLauncher\bin\Debug\ProgramLauncher.exe
+C:\Users\Daniel\Documents\GitHub\ProgramLauncher\ProgramLauncher\bin\Debug\ProgramLauncher.pdb
+C:\Users\Daniel\Documents\GitHub\ProgramLauncher\ProgramLauncher\obj\Debug\ProgramLauncher.Launcher.resources
+C:\Users\Daniel\Documents\GitHub\ProgramLauncher\ProgramLauncher\obj\Debug\ProgramLauncher.Properties.Resources.resources
+C:\Users\Daniel\Documents\GitHub\ProgramLauncher\ProgramLauncher\obj\Debug\ProgramLauncher.csproj.GenerateResource.Cache
+C:\Users\Daniel\Documents\GitHub\ProgramLauncher\ProgramLauncher\obj\Debug\ProgramLauncher.exe
+C:\Users\Daniel\Documents\GitHub\ProgramLauncher\ProgramLauncher\obj\Debug\ProgramLauncher.pdb
+C:\Users\Daniel\Documents\GitHub\ProgramLauncher\ProgramLauncher\obj\Debug\ProgramLauncher.GamesLauncher.resources
+C:\Users\Daniel\Documents\GitHub\ProgramLauncher\ProgramLauncher\obj\Debug\ProgramLauncher.Launchers.UtilityLauncher.resources
